@@ -1,3 +1,3 @@
 ﻿# Kalkulatorapk1page
 
-![kalkulator](https://github.com/user-attachments/assets/76ed64f8-df33-4323-a58e-1814e23e0d7a)
+<img width="296" alt="kalkulator" src="https://github.com/user-attachments/assets/d59061ab-ffba-4ce8-b321-9b2352ff85a2" />
